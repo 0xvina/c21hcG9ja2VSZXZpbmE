@@ -12,50 +12,58 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Revina =====
-[1]Revina      |07:31:26 | 17-10-2026| login OK @revinacalista | score=1350 rank=4798
-[1]Revina      |07:31:26 | 17-10-2026| serverTime=2026-10-17T07:31:26.000Z local=2026-10-17T07:31:26.746Z
+[1]Revina      |09:17:21 | 18-10-2026| login OK @revinacalista | score=1380 rank=4838
+[1]Revina      |09:17:21 | 18-10-2026| serverTime=2026-10-18T09:17:20.000Z local=2026-10-18T09:17:21.638Z
 --> [1]Revina menjalankan: Claim Daily
-[1]Revina      |07:31:27 | 17-10-2026| daily: OK +10 poin score=1360
---> [1]Revina menjalankan: Auto All Tasks (2 pending)
-[1]Revina      |07:31:29 | 17-10-2026| [1/2] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/revinacalista/status/2111358947625044974
-[1]Revina      |07:31:29 | 17-10-2026| delay 10s...
-[1]Revina      |07:31:41 | 17-10-2026| [2/2] cc2ba95b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211099875883428 | proof=https://x.com/revinacalista/status/2111359125888737183
-[1]Revina      |07:31:41 | 17-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Revina      |07:31:42 | 17-10-2026| [1/1] 22d3eb50 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"6d074078-dce8-4c28-9518-4d8ce6181d4a","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2110998758834286 | proof=https://x.com/revinacalista/status/2111358865844032349
+[1]Revina      |09:17:22 | 18-10-2026| daily: OK +10 poin score=1390
+--> [1]Revina menjalankan: Auto All Tasks (5 pending)
+[1]Revina      |09:17:24 | 18-10-2026| [1/5] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/revinacalista/status/2111747969377801629
+[1]Revina      |09:17:24 | 18-10-2026| delay 10s...
+[1]Revina      |09:17:37 | 18-10-2026| [2/5] 9dd2f7fc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/revinacalista/status/2111748173509432717
+[1]Revina      |09:17:37 | 18-10-2026| delay 10s...
+[1]Revina      |09:17:49 | 18-10-2026| [3/5] 9d42b298 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/revinacalista/status/2111747974432483254
+[1]Revina      |09:17:49 | 18-10-2026| delay 10s...
+[1]Revina      |09:18:01 | 18-10-2026| [4/5] 43631d01 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569
+[1]Revina      |09:18:01 | 18-10-2026| delay 10s...
+[1]Revina      |09:18:13 | 18-10-2026| [5/5] 9a5c9c72 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211145507312569 | proof=https://x.com/revinacalista/status/2111748088023406969
+[1]Revina      |09:18:13 | 18-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Revina      |09:18:15 | 18-10-2026| [1/1] fa44d98c (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"fa44d98c-03f4-4c7f-b0aa-ae511e074978","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2111455073125699 | proof=https://x.com/revinacalista/status/2111748279778756327
 --> [1]Revina menjalankan: Watch Anime
-[1]Revina      |07:31:43 | 17-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Revina      |07:31:43 | 17-10-2026| watch [1/3] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Revina      |07:31:44 | 17-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Revina      |07:31:49 | 17-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Revina      |07:31:51 | 17-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Revina      |07:31:56 | 17-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Revina      |07:31:57 | 17-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Revina      |09:18:16 | 18-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Revina      |09:18:16 | 18-10-2026| watch [1/4] farming oshi-captains-hat...
+  video baru dikenal: oshi-captains-hat (katalog +5)
+[1]Revina      |09:18:18 | 18-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Revina      |09:18:23 | 18-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Revina      |09:18:25 | 18-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Revina      |09:18:30 | 18-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Revina      |09:18:32 | 18-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Revina      |09:18:37 | 18-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Revina      |09:18:39 | 18-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Revina menjalankan: Read Article
-[1]Revina      |07:31:59 | 17-10-2026| news: 27/27 artikel selesai dibaca
-[1]Revina      |07:31:59 | 17-10-2026| mint eligibility: {"userId":"1774458608211935232","youtube":{"url":"https://www.youtube.com/@reeviinaa","status":"submitted","revision":"4e74200e-8c7e-43a8-890a-ef30c44172e2","submittedAt":1791675663,"reviewedAt":17916
-[1]Revina      |07:31:59 | 17-10-2026| news: semua artikel sudah dibaca
+[1]Revina      |09:18:42 | 18-10-2026| news: 27/27 artikel selesai dibaca
+[1]Revina      |09:18:44 | 18-10-2026| mint eligibility: {"userId":"1774458608211935232","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@reeviinaa","status":"submitted","revision":"4e74200e-8c7e-43a8-890a-ef30c44172e2
+[1]Revina      |09:18:44 | 18-10-2026| news: semua artikel sudah dibaca
 --> [1]Revina menjalankan: Quiz Anime
-[1]Revina      |07:32:00 | 17-10-2026| quiz ep1: sudah dijawab
-[1]Revina      |07:32:00 | 17-10-2026| quiz ep2: sudah dijawab
-[1]Revina      |07:32:00 | 17-10-2026| quiz ep3: sudah dijawab
-[1]Revina      |07:32:00 | 17-10-2026| quiz ep4: sudah dijawab
-[1]Revina      |07:32:00 | 17-10-2026| quiz ep5: sudah dijawab
-[1]Revina      |07:32:00 | 17-10-2026| quiz ep6: sudah dijawab
+[1]Revina      |09:18:46 | 18-10-2026| quiz ep1: sudah dijawab
+[1]Revina      |09:18:46 | 18-10-2026| quiz ep2: sudah dijawab
+[1]Revina      |09:18:46 | 18-10-2026| quiz ep3: sudah dijawab
+[1]Revina      |09:18:46 | 18-10-2026| quiz ep4: sudah dijawab
+[1]Revina      |09:18:46 | 18-10-2026| quiz ep5: sudah dijawab
+[1]Revina      |09:18:46 | 18-10-2026| quiz ep6: sudah dijawab
 --> [1]Revina menjalankan: Music Missions (realtime, bisa lama!)
-[1]Revina      |07:32:01 | 17-10-2026| music: kedua misi sudah tercapai, stop
-[1]Revina      |07:32:02 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Revina      |07:32:02 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Revina      |07:32:02 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Revina      |09:18:52 | 18-10-2026| music: kedua misi sudah tercapai, stop
+[1]Revina      |09:18:53 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Revina      |09:18:53 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Revina      |09:18:53 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Revina menjalankan: Claim Missions
-[1]Revina      |07:32:02 | 17-10-2026| mission music-listens-10: sudah diklaim
-[1]Revina      |07:32:02 | 17-10-2026| mission music-minutes-30: sudah diklaim
-[1]Revina      |07:32:02 | 17-10-2026| mission anime-completed-3: sudah diklaim
+[1]Revina      |09:18:57 | 18-10-2026| mission music-listens-10: sudah diklaim
+[1]Revina      |09:18:57 | 18-10-2026| mission music-minutes-30: sudah diklaim
+[1]Revina      |09:18:57 | 18-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Revina menjalankan: Check Eligibility
 
 --- eligibility [1]Revina ---
-  @revinacalista | score=1350 rank=4798
-  tasks    [####################] 79/81
+  @revinacalista | score=1380 rank=4838
+  tasks    [###################-] 74/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -66,14 +74,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Revina menjalankan: Read Manga
-[1]Revina      |07:32:05 | 17-10-2026| manga: 0/13 chapter belum completed
+[1]Revina      |09:19:13 | 18-10-2026| manga: 0/13 chapter belum completed
 --> [1]Revina menjalankan: Get Gift
-[1]Revina      |07:32:06 | 17-10-2026| gift: 0/4 belum diterima
+[1]Revina      |09:19:15 | 18-10-2026| gift: 0/4 belum diterima
 --> [1]Revina menjalankan: Setup Profile
-[1]Revina      |07:32:06 | 17-10-2026| profile: bio="https://x.com/revinacalista" fav=kagura rewardAt=1791707566
-[1]Revina      |07:32:06 | 17-10-2026| profile: bonus sudah diklaim, skip
+[1]Revina      |09:19:16 | 18-10-2026| profile: bio="https://x.com/revinacalista" fav=kagura rewardAt=1791707566
+[1]Revina      |09:19:16 | 18-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Revina menjalankan: Bind Wallet
-[1]Revina      |07:32:07 | 17-10-2026| wallet: sudah terikat DXNKyJjT84... (solana)
+[1]Revina      |09:19:17 | 18-10-2026| wallet: sudah terikat DXNKyJjT84... (solana)
 
 == RINGKASAN ==
-- Revina: daily=claimed | tasks OK 3/3 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Revina: daily=claimed | tasks OK 6/6 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
